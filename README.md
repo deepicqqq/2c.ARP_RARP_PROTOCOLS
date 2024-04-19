@@ -1,5 +1,4 @@
-# Develop By : Rahul V
-# Reg No : 212223240133
+
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
